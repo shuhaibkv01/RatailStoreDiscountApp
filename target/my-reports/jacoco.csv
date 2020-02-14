@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+RatailStoreDiscountApp,com.xyz.retailstore.main,RetailApplication,31,0,0,0,8,0,2,0,2,0
+RatailStoreDiscountApp,com.xyz.retailstore.constants,CommonConstants,3,0,0,0,1,0,1,0,1,0
+RatailStoreDiscountApp,com.xyz.retailstore.service,AffiliateDiscount,0,9,0,0,0,2,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.service,EmployeeDiscount,0,9,0,0,0,2,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.service,NoDiscount,0,5,0,0,0,2,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.service,TotalDiscount,0,21,0,0,0,5,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.service,DiscountFactory,3,45,0,8,1,9,1,5,1,1
+RatailStoreDiscountApp,com.xyz.retailstore.service,NetPayCalculatoror,0,21,0,0,0,5,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.service,LoyalUserDiscount,0,9,0,0,0,2,0,2,0,2
+RatailStoreDiscountApp,com.xyz.retailstore.model,PurchaseType,0,34,0,0,0,2,0,1,0,1
+RatailStoreDiscountApp,com.xyz.retailstore.model,UserType,0,34,0,0,0,2,0,1,0,1
+RatailStoreDiscountApp,com.xyz.retailstore.model,BillDetails,18,25,0,0,7,10,4,7,4,7
+RatailStoreDiscountApp,com.xyz.retailstore.model,User,15,18,0,0,7,7,4,3,4,3
