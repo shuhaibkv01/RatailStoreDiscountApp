@@ -18,3 +18,4 @@ Retail Store Discount App
 
 The coverage report is generated at `target/my-reports/index.html`.
 
+![result](https://github.com/shuhaibkv01/RatailStoreDiscountApp/blob/master/class_diagram.jpg?raw=true)
