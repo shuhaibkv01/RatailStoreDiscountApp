@@ -1,7 +1,7 @@
 Retail Store Discount App
 =================================================
 
-### Steps for running test cases and generating the code coverage report
+### Steps for running application, test cases and generating the code coverage report
 
 ##### Clone the project
     clone https://github.com/shuhaibkv01/RatailStoreDiscountApp.git
